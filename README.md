@@ -1,15 +1,14 @@
 <div align="center">
-  <br>
-  <h1>理水 | Digital Garden</h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=100&lines=%3E+理水+|+Digital+Garden" alt="Typing SVG" />
   <p><i>Building something meaningful, one line of code at a time.</i></p>
   <br>
 
   <p align="center">
     <a href="https://waterdrop26651.com/">
-      <img src="https://img.shields.io/badge/Website-waterdrop26651.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Personal Website" />
+      <img src="https://img.shields.io/badge/Website-waterdrop26651.com-050508?style=for-the-badge&logo=vercel&logoColor=DC2626&borderColor=DC2626" alt="Personal Website" />
     </a>
     <a href="mailto:2268988930@qq.com">
-      <img src="https://img.shields.io/badge/Email-2268988930@qq.com-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Email-2268988930@qq.com-050508?style=for-the-badge&logo=gmail&logoColor=DC2626&borderColor=DC2626" alt="Email" />
     </a>
   </p>
   <br>
@@ -43,10 +42,10 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, an AI Engineer and R
 
 <div align="center">
   <a href="https://github.com/waterdrop26651">
-    <img src="https://github-readme-stats.vercel.app/api?username=waterdrop26651&show_icons=true&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=00000000" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-stats.vercel.app/api?username=waterdrop26651&show_icons=true&theme=transparent&hide_border=true&title_color=DC2626&text_color=A3A3A3&icon_color=DC2626&bg_color=050508" alt="GitHub Stats" width="48%" />
   </a>
   <a href="https://github.com/waterdrop26651">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waterdrop26651&theme=transparent&hide_border=true&title_color=000000&text_color=333333&icon_color=000000&bg_color=00000000" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waterdrop26651&theme=transparent&hide_border=true&title_color=DC2626&text_color=A3A3A3&icon_color=DC2626&bg_color=050508" alt="GitHub Streak" width="48%" />
   </a>
 </div>
 
@@ -54,6 +53,6 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, an AI Engineer and R
 <div align="center">
   <p><i>since 2024</i></p>
   <a href="https://github.com/waterdrop26651">
-    <img src="https://komarev.com/ghpvc/?username=waterdrop26651&label=Visitors&color=000000&style=flat-square" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=waterdrop26651&label=Visitors&color=DC2626&style=flat-square" alt="Profile Views" />
   </a>
 </div>
