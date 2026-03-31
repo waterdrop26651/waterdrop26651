@@ -21,8 +21,8 @@
 Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher and developer passionate about the delicate balance between AI capabilities and security. I cultivate robust AI systems from chaotic models, exploring how to bridge cutting-edge academic research with real-world engineering.
 
 - **Academic Journey:** 
-  - **M.S. in Computer Science (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
-  - **B.S.**, Wuhan University (2022.09 - 2026.06)
+  - **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
+  - **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 - 2026.06)
 - **Currently Cultivating:** LLM Jailbreak Defense (Representation Calibration) & AI Engineering (Harness/Context Engineering).
 <!-- - **Research Harvest:** Co-authored *MM ALIGNER* (ACM CCS '26 Under Review, Student 2nd Author) — revealing "Representation Drift" to safeguard LLMs against jailbreaks. -->
 - **Tools of the Trade:** Python, PyTorch, Electron, JSON Schema Control.
