@@ -18,10 +18,11 @@
 
 ### 🌿 About the Gardener
 
-Welcome to my digital garden. I am **Zihao Wang (理水)**, an AI Engineer and Researcher focusing on the delicate balance between AI capabilities and security. I cultivate robust AI systems from chaotic models, ensuring they thrive in real-world environments.
+Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher and developer passionate about the delicate balance between AI capabilities and security. I cultivate robust AI systems from chaotic models, exploring how to bridge cutting-edge academic research with real-world engineering.
 
-- 🌱 **Currently Cultivating:** Multimodal LLM Security Alignment (Representation Calibration) & AI Engineering (Harness/Context Engineering).
-- 🔬 **Research Harvest:** Co-authored *MM ALIGNER* (ACM CCS '26 Under Review) — exploring "Representation Drift" to safeguard LLMs against jailbreaks.
+- � **Academic Journey:** Undergraduate student deeply engaged in Multimodal LLM Security Alignment and Representation Learning.
+- 🌱 **Currently Cultivating:** LLM Jailbreak Defense (Representation Calibration) & AI Engineering (Harness/Context Engineering).
+- 🔬 **Research Harvest:** Co-authored *MM ALIGNER* (ACM CCS '26 Under Review, Student 2nd Author) — revealing "Representation Drift" to safeguard LLMs against jailbreaks.
 - 🛠️ **Tools of the Trade:** Python, PyTorch, Electron, JSON Schema Control.
 
 ---
