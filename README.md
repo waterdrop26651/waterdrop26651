@@ -7,8 +7,8 @@
     <a href="https://waterdrop26651.com/">
       <img src="https://img.shields.io/badge/Website-waterdrop26651.com-050508?style=for-the-badge&logo=vercel&logoColor=DC2626&borderColor=DC2626" alt="Personal Website" />
     </a>
-    <a href="mailto:2268988930@qq.com">
-      <img src="https://img.shields.io/badge/Email-2268988930@qq.com-050508?style=for-the-badge&logo=gmail&logoColor=DC2626&borderColor=DC2626" alt="Email" />
+    <a href="mailto:2022302111349@whu.edu.cn">
+      <img src="https://img.shields.io/badge/Email-2022302111349@whu.edu.cn-050508?style=for-the-badge&logo=gmail&logoColor=DC2626&borderColor=DC2626" alt="Email" />
     </a>
   </p>
   <br>
