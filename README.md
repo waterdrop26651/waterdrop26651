@@ -45,10 +45,7 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
 
 <div align="center">
   <a href="https://github.com/waterdrop26651">
-    <img src="https://github-readme-stats.vercel.app/api?username=waterdrop26651&show_icons=true&theme=transparent&hide_border=true&title_color=DC2626&text_color=A3A3A3&icon_color=DC2626&bg_color=050508" alt="GitHub Stats" width="48%" />
-  </a>
-  <a href="https://github.com/waterdrop26651">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waterdrop26651&theme=transparent&hide_border=true&title_color=DC2626&text_color=A3A3A3&icon_color=DC2626&bg_color=050508" alt="GitHub Streak" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waterdrop26651&theme=transparent&hide_border=true&title_color=DC2626&text_color=A3A3A3&icon_color=DC2626&bg_color=050508" alt="GitHub Streak" />
   </a>
 </div>
 
