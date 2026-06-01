@@ -28,10 +28,9 @@ they can be interpreted, steered, or intervened on.
 
 Across language, vision-language, and speech, I keep returning to the same
 question: how do internal representations move, meet, and become steerable?
-For graduate research, I am moving into speech language models in Prof.
-Zhizheng Wu's group, because speech makes interaction real-time: interruption,
-overlap, repair, latency, rhythm. It is a natural testbed for AI systems that
-do not merely answer turn by turn, but participate in time.
+Speech draws me because it makes interaction real-time: interruption, overlap,
+repair, latency, rhythm. It is a natural testbed for AI systems that do not
+merely answer turn by turn, but participate in time.
 
 - **Academic Journey:** 
   - **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
