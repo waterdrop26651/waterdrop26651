@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=100&lines=%3E+理水+|+Digital+Garden" alt="Typing SVG" />
-  <p><i>Representations move. Interactions make them matter.</i></p>
+  <p><i>Representations flow. Interactions give them shape.</i></p>
   <br>
 
   <p align="center">
@@ -36,7 +36,7 @@ data flows through hidden spaces, where representations become fragile, and why
 they can be interpreted, steered, or intervened on.
 
 Across language, vision-language, and speech, I keep returning to the same
-question: how do internal representations move, meet, and become steerable?
+question: how do internal representations flow, meet, and become steerable?
 Speech draws me because it makes interaction real-time: interruption, overlap,
 repair, latency, rhythm. It is a natural testbed for AI systems that do not
 merely answer turn by turn, but participate in time.
