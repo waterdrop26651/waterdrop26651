@@ -57,17 +57,19 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
 
 ---
 
-### Garden Growth
+### Research Trail
 
 <div align="center">
-  <a href="https://github.com/waterdrop26651">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=waterdrop26651&theme=transparent&hide_border=true&title_color=DC2626&text_color=A3A3A3&icon_color=DC2626&bg_color=050508" alt="GitHub Streak" />
-  </a>
+
+| **Speech Language Models** | **Model Safety** | **Agent Memory** | **Open Skills** |
+| :--- | :--- | :--- | :--- |
+| Representation learning for speech-language systems. | Safer multimodal behavior through steering and evaluation. | External memory systems for controllable agent recall. | Reusable agent skills that turn research process into infrastructure. |
+
 </div>
 
 <br>
 <div align="center">
-  <p><i>since 2024</i></p>
+  <p><i>Research should leave artifacts that future agents can actually use.</i></p>
   <a href="https://github.com/waterdrop26651">
     <img src="https://komarev.com/ghpvc/?username=waterdrop26651&label=Visitors&color=DC2626&style=flat-square" alt="Profile Views" />
   </a>
