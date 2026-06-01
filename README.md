@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=900&height=100&lines=%3E+理水+|+Representation+%26+Interaction" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=100&lines=%3E+理水+|+Digital+Garden" alt="Typing SVG" />
   <p><i>Representations move. Interactions make them matter.</i></p>
   <br>
 
