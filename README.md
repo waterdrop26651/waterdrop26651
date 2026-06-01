@@ -42,10 +42,20 @@ language models, I saw safety as a trace left by internal structure. In
 vision-language models, I began to ask how different modalities meet within
 the same hidden current.
 
-Speech brings this question into time. Unlike text, speech is naturally
-real-time: interruption, overlap, pause, repair, rhythm, and presence. It makes
-interaction less like sending prompts into a fixed machine, and more like
-sharing a moment with a system that must listen, wait, adjust, and respond.
+Interaction is the other current I keep following. Today, even the strongest
+agents often meet us through text: a prompt, a response, another prompt, another
+response. This runtime loop is powerful, but thin. Speech makes the loop denser:
+interruption, overlap, pause, repair, rhythm, and presence. It turns interaction
+from exchanging messages with a fixed machine into sharing time with a system
+that must listen, wait, adjust, and respond.
+
+But interaction is not only between humans and models. It can also happen
+between modalities, between agents, between a model and its external memory,
+and perhaps one day within the model itself. Most models are frozen after
+training; what changes during use is usually only the context around them.
+I am curious about whether interaction can become more than context: whether
+it can reshape memory, update behavior, or create new internal conditions for
+reasoning.
 
 Across these paths, I keep watching the same undercurrent: how representations
 flow, how modalities meet, and whether a fixed model can still learn to
