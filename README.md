@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=100&lines=%3E+理水+|+Digital+Garden" alt="Typing SVG" />
-  <p><i>Building external memory, safer agents, and tools that make thought easier to continue.</i></p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=900&height=100&lines=%3E+理水+|+Representation+%26+Interaction" alt="Typing SVG" />
+  <p><i>Representations move. Interactions make them matter.</i></p>
   <br>
 
   <p align="center">
@@ -16,25 +16,38 @@
 
 ---
 
-### About the Gardener
+### Representation & Interaction
 
-Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher and developer passionate about the delicate balance between AI capabilities and security. I cultivate robust AI systems from chaotic models, exploring how to bridge cutting-edge academic research with real-world engineering.
+I am **Zihao Wang (理水)**. My research taste is organized around two words:
+**representation** and **interaction**.
+
+I entered foundation model research through LLM safety and multimodal safety.
+Safety is not the boundary of my curiosity; it is a sharp way to expose how
+data flows through hidden spaces, where representations become fragile, and why
+they can be interpreted, steered, or intervened on.
+
+Across language, vision-language, and speech, I keep returning to the same
+question: how do internal representations move, meet, and become steerable?
+For graduate research, I am moving into speech language models in Prof.
+Zhizheng Wu's group, because speech makes interaction real-time: interruption,
+overlap, repair, latency, rhythm. It is a natural testbed for AI systems that
+do not merely answer turn by turn, but participate in time.
 
 - **Academic Journey:** 
   - **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
   - **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 - 2026.06)
-- **Currently Cultivating:** Speech Language Models (SLM), Representation Learning, Model Safety, and Agent Memory.
+- **Current Focus:** Speech Language Models (SLM), Representation Learning, Real-Time Interaction, and Agent Memory.
 <!-- - **Research Harvest:** Co-authored *MM ALIGNER* (ACM CCS '26 Under Review, Student 2nd Author) — revealing "Representation Drift" to safeguard LLMs against jailbreaks. -->
 
 ---
 
-### Featured Work
+### Featured Artifact
 
 <div align="center">
 
 | **[Memento Skill](https://github.com/waterdrop26651/Memento-skill)** |
 | :--- |
-| Controlled recall for fragmented experiments, evidence ledgers, evolving hypotheses, and the next high-information research contrast. |
+| Controlled external memory for agents: separate facts from beliefs, keep only high-gradient evidence hot, and recall archives only with a trigger. |
 | `npx skills add waterdrop26651/Memento-skill` |
 
 </div>
@@ -45,7 +58,7 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
 
 ---
 
-### Projects & Seeds
+### Recent Artifacts
 
 <div align="center">
 
@@ -57,19 +70,19 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
 
 ---
 
-### Research Trail
+### Research Vectors
 
 <div align="center">
 
-| **Speech Language Models** | **Model Safety** | **Agent Memory** | **Open Skills** |
+| **Representation** | **Modality** | **Real-Time Interaction** | **External Memory** |
 | :--- | :--- | :--- | :--- |
-| Representation learning for speech-language systems. | Safer multimodal behavior through steering and evaluation. | External memory systems for controllable agent recall. | Reusable agent skills that turn research process into infrastructure. |
+| Hidden-space flow, interpretability, and steering. | Language, vision-language, speech, and whatever comes next. | Interruption, latency, turn-taking, and agents participating in time. | Context, tools, archives, and Memento-like traces for fixed models. |
 
 </div>
 
 <br>
 <div align="center">
-  <p><i>Research should leave artifacts that future agents can actually use.</i></p>
+  <p><i>I am interested in AI systems that can be read, interrupted, remembered, and changed.</i></p>
   <a href="https://github.com/waterdrop26651">
     <img src="https://komarev.com/ghpvc/?username=waterdrop26651&label=Visitors&color=DC2626&style=flat-square" alt="Profile Views" />
   </a>
