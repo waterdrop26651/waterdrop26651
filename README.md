@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=100&lines=%3E+理水+|+Digital+Garden" alt="Typing SVG" />
-  <p><i>Building something meaningful, one line of code at a time.</i></p>
+  <p><i>Building external memory, safer agents, and tools that make thought easier to continue.</i></p>
   <br>
 
   <p align="center">
@@ -23,9 +23,26 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
 - **Academic Journey:** 
   - **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
   - **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 - 2026.06)
-- **Currently Cultivating:** LLM Jailbreak Defense (Representation Calibration) & AI Engineering (Harness/Context Engineering).
+- **Currently Cultivating:** LLM Jailbreak Defense, Representation Calibration, Agent Memory, and Context Engineering.
 <!-- - **Research Harvest:** Co-authored *MM ALIGNER* (ACM CCS '26 Under Review, Student 2nd Author) — revealing "Representation Drift" to safeguard LLMs against jailbreaks. -->
 - **Tools of the Trade:** Python, PyTorch, Electron, JSON Schema Control.
+
+---
+
+### Featured Work
+
+<div align="center">
+
+| **[Memento Skill](https://github.com/waterdrop26651/Memento-skill)** |
+| :--- |
+| Controlled recall for fragmented experiments, evidence ledgers, evolving hypotheses, and the next high-information research contrast. |
+| `npx skills add waterdrop26651/Memento-skill` |
+
+</div>
+
+<p align="center">
+  <i>Do not let every note become a tattoo.</i>
+</p>
 
 ---
 
@@ -33,9 +50,9 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
 
 <div align="center">
 
-| **[FormulaAI](https://github.com/waterdrop26651/FormulaAI)** | **PixelCat** |
-| :--- | :--- |
-| An AI-driven intelligent document formatting tool that automatically maps structural semantics to complex formats, bypassing traditional templates. | An Electron-based cloud-edge system featuring an AI Assistant for intelligent photo pre-screening and multi-dimensional scoring. |
+| **[FormulaAI](https://github.com/waterdrop26651/FormulaAI)** | **PixelCat** | **Agent Memory** |
+| :--- | :--- | :--- |
+| AI-driven document formatting that maps structural semantics to complex formats without brittle templates. | Electron-based cloud-edge workflow with an AI assistant for photo pre-screening and multi-dimensional scoring. | Skills and trackers for turning messy context into controllable, evidence-led recall. |
 
 </div>
 
