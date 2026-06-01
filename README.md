@@ -16,10 +16,20 @@
 
 ---
 
-### Representation & Interaction
+### About
 
-I am **Zihao Wang**. My research taste is organized around two words:
-**representation** and **interaction**.
+I am **Zihao Wang**, a student researcher in artificial intelligence. I am
+completing my B.Eng. in Artificial Intelligence at Wuhan University
+(2022.09 - 2026.06), and will continue with an M.Phil. in Artificial
+Intelligence at The Chinese University of Hong Kong, Shenzhen
+(2026.09 - 2028.06 expected).
+
+My current interests sit around Speech Language Models (SLM), Representation
+Learning, Real-Time Interaction, and Agent Memory.
+
+---
+
+### Personal Statement
 
 I entered foundation model research through LLM safety and multimodal safety.
 Safety is not the boundary of my curiosity; it is a sharp way to expose how
@@ -32,15 +42,12 @@ Speech draws me because it makes interaction real-time: interruption, overlap,
 repair, latency, rhythm. It is a natural testbed for AI systems that do not
 merely answer turn by turn, but participate in time.
 
-- **Academic Journey:** 
-  - **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
-  - **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 - 2026.06)
-- **Current Focus:** Speech Language Models (SLM), Representation Learning, Real-Time Interaction, and Agent Memory.
-<!-- - **Research Harvest:** Co-authored *MM ALIGNER* (ACM CCS '26 Under Review, Student 2nd Author) — revealing "Representation Drift" to safeguard LLMs against jailbreaks. -->
+I am interested in AI systems that can be read, interrupted, remembered, and
+changed.
 
 ---
 
-### Featured Artifact
+### Projects
 
 <div align="center">
 
@@ -57,32 +64,10 @@ merely answer turn by turn, but participate in time.
 
 ---
 
-### Recent Artifacts
-
 <div align="center">
 
 | **[Spider Memory](https://github.com/waterdrop26651/spider-memory)** | **[MMSteer](https://github.com/waterdrop26651/MMSteer)** | **[Ouroboros Transformer](https://github.com/waterdrop26651/ouroboros_transformer)** |
 | :--- | :--- | :--- |
 | Graph-based associative memory for agent conversations, with weighted recall, reflection, and cold-layer archival. | Multimodal model safety research for Qwen2.5-VL-class systems, centered on safety representations and preventative steering. | A cyclic Transformer architecture experiment where independent blocks form a ring and information flows through repeated loops. |
 
-</div>
-
----
-
-### Research Vectors
-
-<div align="center">
-
-| **Representation** | **Modality** | **Real-Time Interaction** | **External Memory** |
-| :--- | :--- | :--- | :--- |
-| Hidden-space flow, interpretability, and steering. | Language, vision-language, speech, and whatever comes next. | Interruption, latency, turn-taking, and agents participating in time. | Context, tools, archives, and Memento-like traces for fixed models. |
-
-</div>
-
-<br>
-<div align="center">
-  <p><i>I am interested in AI systems that can be read, interrupted, remembered, and changed.</i></p>
-  <a href="https://github.com/waterdrop26651">
-    <img src="https://komarev.com/ghpvc/?username=waterdrop26651&label=Visitors&color=DC2626&style=flat-square" alt="Profile Views" />
-  </a>
 </div>
