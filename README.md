@@ -18,7 +18,7 @@
 
 ### Representation & Interaction
 
-I am **Zihao Wang (理水)**. My research taste is organized around two words:
+I am **Zihao Wang**. My research taste is organized around two words:
 **representation** and **interaction**.
 
 I entered foundation model research through LLM safety and multimodal safety.
