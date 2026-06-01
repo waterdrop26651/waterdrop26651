@@ -46,6 +46,18 @@ changed.
 
 ---
 
+### Research Vectors
+
+<div align="center">
+
+| **Representation** | **Modality** | **Real-Time Interaction** | **External Memory** |
+| :--- | :--- | :--- | :--- |
+| Hidden-space flow, interpretability, and steering. | Language, vision-language, speech, and whatever comes next. | Interruption, latency, turn-taking, and agents participating in time. | Context, tools, archives, and Memento-like traces for fixed models. |
+
+</div>
+
+---
+
 ### Projects
 
 <div align="center">
