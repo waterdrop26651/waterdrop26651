@@ -25,7 +25,6 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
   - **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 - 2026.06)
 - **Currently Cultivating:** Speech Language Models (SLM), Representation Learning, Model Safety, and Agent Memory.
 <!-- - **Research Harvest:** Co-authored *MM ALIGNER* (ACM CCS '26 Under Review, Student 2nd Author) — revealing "Representation Drift" to safeguard LLMs against jailbreaks. -->
-- **Tools of the Trade:** Python, PyTorch, Electron, JSON Schema Control.
 
 ---
 
