@@ -18,11 +18,10 @@
 
 ### About
 
-I am **Zihao Wang**, a student researcher in artificial intelligence. I am
-completing my B.Eng. in Artificial Intelligence at Wuhan University
-(2022.09 - 2026.06), and will continue with an M.Phil. in Artificial
-Intelligence at The Chinese University of Hong Kong, Shenzhen
-(2026.09 - 2028.06 expected).
+I am **Zihao Wang**, a student researcher in artificial intelligence.
+
+- **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 - 2026.06)
+- **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
 
 My current interests sit around Speech Language Models (SLM), Representation
 Learning, Real-Time Interaction, and Agent Memory.
