@@ -30,19 +30,26 @@ Learning, Real-Time Interaction, and Agent Memory.
 
 ### Personal Statement
 
-I entered foundation model research through LLM safety and multimodal safety.
-Safety is not the boundary of my curiosity; it is a sharp way to expose how
-data flows through hidden spaces, where representations become fragile, and why
-they can be interpreted, steered, or intervened on.
+I first approached foundation models through LLM safety and multimodal safety,
+but safety has never been the edge of my curiosity. It is more like a probe:
+a way to see how data enters a model, becomes representation, and begins to
+flow through hidden space.
 
-Across language, vision-language, and speech, I keep returning to the same
-question: how do internal representations flow, meet, and become steerable?
-Speech draws me because it makes interaction real-time: interruption, overlap,
-repair, latency, rhythm. It is a natural testbed for AI systems that do not
-merely answer turn by turn, but participate in time.
+What draws me is this flow. Representations can be fragile; they reveal cracks
+under attack, alignment, or cross-modal transfer. Yet precisely because of
+that fragility, they can also be read, steered, and gently intervened on. In
+language models, I saw safety as a trace left by internal structure. In
+vision-language models, I began to ask how different modalities meet within
+the same hidden current.
 
-I am interested in AI systems that can be read, interrupted, remembered, and
-changed.
+Speech brings this question into time. Unlike text, speech is naturally
+real-time: interruption, overlap, pause, repair, rhythm, and presence. It makes
+interaction less like sending prompts into a fixed machine, and more like
+sharing a moment with a system that must listen, wait, adjust, and respond.
+
+Across these paths, I keep watching the same undercurrent: how representations
+flow, how modalities meet, and whether a fixed model can still learn to
+remember, respond, and change through interaction.
 
 ---
 
