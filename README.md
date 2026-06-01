@@ -49,9 +49,9 @@ Welcome to my digital garden. I am **Zihao Wang (理水)**, a student researcher
 
 <div align="center">
 
-| **[FormulaAI](https://github.com/waterdrop26651/FormulaAI)** | **PixelCat** | **Agent Memory** |
+| **[Spider Memory](https://github.com/waterdrop26651/spider-memory)** | **[MMSteer](https://github.com/waterdrop26651/MMSteer)** | **[Ouroboros Transformer](https://github.com/waterdrop26651/ouroboros_transformer)** |
 | :--- | :--- | :--- |
-| AI-driven document formatting that maps structural semantics to complex formats without brittle templates. | Electron-based cloud-edge workflow with an AI assistant for photo pre-screening and multi-dimensional scoring. | Skills and trackers for turning messy context into controllable, evidence-led recall. |
+| Graph-based associative memory for agent conversations, with weighted recall, reflection, and cold-layer archival. | Multimodal model safety research for Qwen2.5-VL-class systems, centered on safety representations and preventative steering. | A cyclic Transformer architecture experiment where independent blocks form a ring and information flows through repeated loops. |
 
 </div>
 
