@@ -1,101 +1,42 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&pause=1000&color=DC2626&center=true&vCenter=true&width=800&height=100&lines=%3E+理水+|+Digital+Garden" alt="Typing SVG" />
-  <p><i>Representations flow. Interactions give them shape.</i></p>
-  <br>
 
-  <p align="center">
-    <a href="https://waterdrop26651.com/">
-      <img src="https://img.shields.io/badge/Website-waterdrop26651.com-050508?style=for-the-badge&logo=vercel&logoColor=DC2626&borderColor=DC2626" alt="Personal Website" />
-    </a>
-    <a href="mailto:2022302111349@whu.edu.cn">
-      <img src="https://img.shields.io/badge/Email-2022302111349@whu.edu.cn-050508?style=for-the-badge&logo=gmail&logoColor=DC2626&borderColor=DC2626" alt="Email" />
-    </a>
-  </p>
-  <br>
+# Zihao Wang
+
+*M.Phil. student in Artificial Intelligence · The Chinese University of Hong Kong, Shenzhen*
+
+<a href="https://waterdrop26651.github.io/">
+  <img src="https://img.shields.io/badge/Homepage-waterdrop26651.github.io-0d9488?style=for-the-badge&logo=github&logoColor=white" alt="Academic Homepage" />
+</a>
+<a href="mailto:2022302111349@whu.edu.cn">
+  <img src="https://img.shields.io/badge/Email-2022302111349%40whu.edu.cn-0d9488?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
 </div>
 
 ---
 
 ### About
 
-I am **Zihao Wang**, a student researcher in artificial intelligence.
+I am an M.Phil. student at the **School of Artificial Intelligence**, The Chinese University of Hong Kong, Shenzhen. My advisor is [Prof. Zhizheng Wu](https://drwuz.com).
 
-- **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 - 2026.06)
-- **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 - 2028.06)
+- **M.Phil. in Artificial Intelligence (Expected)**, The Chinese University of Hong Kong, Shenzhen (2026.09 – 2028.06)
+- **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 – 2026.06)
 
-My current interests sit around Speech Language Models (SLM), Representation
-Learning, Real-Time Interaction, and Agent Memory.
-
----
-
-### Personal Statement
-
-I first approached foundation models through LLM safety and multimodal safety,
-but safety has never been the edge of my curiosity. It is more like a probe:
-a way to see how data enters a model, becomes representation, and begins to
-flow through hidden space.
-
-What draws me is this flow. Representations can be fragile; they reveal cracks
-under attack, alignment, or cross-modal transfer. Yet precisely because of
-that fragility, they can also be read, steered, and gently intervened on. In
-language models, I saw safety as a trace left by internal structure. In
-vision-language models, I began to ask how different modalities meet within
-the same hidden current.
-
-Interaction is the other current I keep following. Today, even the strongest
-agents often meet us through text: a prompt, a response, another prompt, another
-response. This runtime loop is powerful, but thin. Speech makes the loop denser:
-interruption, overlap, pause, repair, rhythm, and presence. It turns interaction
-from exchanging messages with a fixed machine into sharing time with a system
-that must listen, wait, adjust, and respond.
-
-But interaction is not only between humans and models. It can also happen
-between modalities, between agents, between a model and its external memory,
-and perhaps one day within the model itself. Most models are frozen after
-training; what changes during use is usually only the context around them.
-I am curious about whether interaction can become more than context: whether
-it can reshape memory, update behavior, or create new internal conditions for
-reasoning.
-
-Across these paths, I keep watching the same undercurrent: how representations
-flow, how modalities meet, and whether a fixed model can still learn to
-remember, respond, and change through interaction.
-
----
-
-### Research Vectors
-
-<div align="center">
-
-| **Representation** | **Modality** | **Real-Time Interaction** | **External Memory** |
-| :--- | :--- | :--- | :--- |
-| Hidden-space flow, interpretability, and steering. | Language, vision-language, speech, and whatever comes next. | Interruption, latency, turn-taking, and agents participating in time. | Context, tools, archives, and Memento-like traces for fixed models. |
-
-</div>
+My research focuses on **speech language models (SLM)**, **emotion understanding and generation**, and **interactive models**. During my undergraduate years, I worked on the safety of multimodal large language models — especially representation-level calibration and steering ([MMAligner](https://arxiv.org/abs/2608.05909), **ACM CCS 2026**).
 
 ---
 
 ### Projects
-
-<div align="center">
 
 | **[Memento Skill](https://github.com/waterdrop26651/Memento-skill)** |
 | :--- |
 | Controlled external memory for agents: separate facts from beliefs, keep only high-gradient evidence hot, and recall archives only with a trigger. |
 | `npx skills add waterdrop26651/Memento-skill` |
 
-</div>
-
-<p align="center">
-  <i>Do not let every note become a tattoo.</i>
-</p>
-
----
-
-<div align="center">
-
 | **[Spider Memory](https://github.com/waterdrop26651/spider-memory)** | **[MMSteer](https://github.com/waterdrop26651/MMSteer)** | **[Ouroboros Transformer](https://github.com/waterdrop26651/ouroboros_transformer)** |
 | :--- | :--- | :--- |
 | Graph-based associative memory for agent conversations, with weighted recall, reflection, and cold-layer archival. | Multimodal model safety research for Qwen2.5-VL-class systems, centered on safety representations and preventative steering. | A cyclic Transformer architecture experiment where independent blocks form a ring and information flows through repeated loops. |
 
-</div>
+<p align="center">
+  <i>Do not let every note become a tattoo.</i>
+</p>
