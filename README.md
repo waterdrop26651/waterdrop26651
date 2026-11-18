@@ -23,20 +23,3 @@ I am an M.Phil. student at the **School of Artificial Intelligence**, The Chines
 - **B.Eng. in Artificial Intelligence**, Wuhan University (2022.09 – 2026.06)
 
 My research focuses on **speech language models (SLM)**, **emotion understanding and generation**, and **interactive models**. During my undergraduate years, I worked on the safety of multimodal large language models — especially representation-level calibration and steering ([MMAligner](https://arxiv.org/abs/2608.05909), **ACM CCS 2026**).
-
----
-
-### Projects
-
-| **[Memento Skill](https://github.com/waterdrop26651/Memento-skill)** |
-| :--- |
-| Controlled external memory for agents: separate facts from beliefs, keep only high-gradient evidence hot, and recall archives only with a trigger. |
-| `npx skills add waterdrop26651/Memento-skill` |
-
-| **[Spider Memory](https://github.com/waterdrop26651/spider-memory)** | **[MMSteer](https://github.com/waterdrop26651/MMSteer)** | **[Ouroboros Transformer](https://github.com/waterdrop26651/ouroboros_transformer)** |
-| :--- | :--- | :--- |
-| Graph-based associative memory for agent conversations, with weighted recall, reflection, and cold-layer archival. | Multimodal model safety research for Qwen2.5-VL-class systems, centered on safety representations and preventative steering. | A cyclic Transformer architecture experiment where independent blocks form a ring and information flows through repeated loops. |
-
-<p align="center">
-  <i>Do not let every note become a tattoo.</i>
-</p>
